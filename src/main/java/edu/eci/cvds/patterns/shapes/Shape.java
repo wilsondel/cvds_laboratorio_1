@@ -1,4 +1,4 @@
-package edu.eci.cvds.shapes;
+package edu.eci.cvds.patterns.shapes;
 
 
 
